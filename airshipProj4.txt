@@ -8,3 +8,4 @@
 0,McDonnel Douglas,225,11000,0,38000
 0,Cessna 120,6,11000,1,10000
 1,Painted Angel,50,50000,0,5000
+
