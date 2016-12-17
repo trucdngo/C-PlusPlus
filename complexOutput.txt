@@ -1,0 +1,24 @@
+2+i3
+
+27-i200
+
+-20+i4
+
+-18-i99
+
+c2 is: 27-i200
+now set c2 to (2, 3)
+2+i3
+
+c1 is equal to c2
+c1 is NOT equal to c3
+-200-i800
+
+Inside class complex's destructor for: -200-i800
+-18-i99
+
+Inside class complex's destructor for: -18-i99
+Inside class complex's destructor for: -18-i99
+Inside class complex's destructor for: -18-i99
+Inside class complex's destructor for: -18-i99
+Program ended with exit code: 0

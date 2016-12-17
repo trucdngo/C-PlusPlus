@@ -1,0 +1,32 @@
+Value of argument #1 is: 19
+Value of argument #2 is: 5
+Value of multiplication product is: 95
+
+Value of argument #1 is: 51
+Value of argument #2 is: 19
+Value of multiplication product is: 969
+
+Value of argument #1 is: 876
+Value of argument #2 is: 234
+Value of multiplication product is: -1-2
+
+Value of argument #1 is: 37975227936943673922808872755445627854565536638199
+Value of argument #2 is: 40094690950920881030683735292761468389214899724061
+Value of multiplication product is: 
+
+Value of argument #1 is: 6122421090493547576937037317561418841225758554253106999
+Value of argument #2 is: 5846418214406154678836553182979162384198610505601062333
+Value of multiplication product is: +(0+0+(52502275-7202225-22-270(5(500(0+2275275+22-5+2775
+
+Value of argument #1 is: 32769132993266709549961988190834461413177642967992942539798288533
+Value of argument #2 is: 3490529510847650949147849619903898133417764638493387843990820577
+Value of multiplication product is: 1114150521771068124698707598488371688048039860911760046353141810122
+
+Inside mult150 destructor
+Inside mult150 destructor
+Inside mult150 destructor
+Inside mult150 destructor
+Inside mult150 destructor
+Inside mult150 destructor
+Run time   is 0.000445 secs
+Program ended with exit code: 0
